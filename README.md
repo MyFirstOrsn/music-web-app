@@ -1,2 +1,2 @@
 # music-web-app
-This is a music web application
+This is a good music web application
